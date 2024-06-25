@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 13.0.2, 2024-06-25T12:47:13. -->
+<!-- Written by QtCreator 13.0.2, 2024-06-25T15:47:56. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -404,7 +404,6 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/Jerold/Documents/uni/crypto_exam/crypto_exam_2024/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
